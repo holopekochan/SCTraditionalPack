@@ -1,6 +1,6 @@
 # Star Citizen Traditional Chinese Pack
 
-This repository contains localization files for Star Citizen.
+This repository contains localization files for Star Citizen. Version: 4.7
 
 ## Installation
 
